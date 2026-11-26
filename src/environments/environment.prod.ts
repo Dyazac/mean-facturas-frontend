@@ -1,5 +1,5 @@
-// Producción: PON AQUÍ la URL pública de tu backend (Railway/Render)
+// Configuración de producción: reemplazar por la URL pública del backend desplegado
 export const environment = {
   production: true,
-  apiUrl: 'https://TU-BACKEND.up.railway.app/api/facturas',
+  apiUrl: 'https://mean-facturas-backend-production.up.railway.app/api/facturas',
 };
