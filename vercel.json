@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/proyecto-facturas-pendientes/browser",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
